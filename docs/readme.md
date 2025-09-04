@@ -47,11 +47,12 @@ This project demonstrates:
 ```
 
 
-Project Architecture:-
-![Architecture](C:\yashwant\DataEngineeringPrep\Data_Engineering_Project\Sales_Incentive_Analytics\docs\Pipeline_Architecture.png)
+## Project Architecture
+![Pipeline Architecture](docs/Pipeline_Architecture.png)
 
-Database ER Diagram:-
-![Architecture](C:\yashwant\DataEngineeringPrep\Data_Engineering_Project\Sales_Incentive_Analytics\docs\database_schema.drawio.png)
+## Database ER Diagram
+![Database ER Diagram](docs/database_schema.drawio.png)
+
 
 
 ```
