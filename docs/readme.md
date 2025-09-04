@@ -44,7 +44,7 @@ This project demonstrates:
 
 ---
 
-```
+
 
 
 ## Project Architecture
@@ -56,7 +56,7 @@ This project demonstrates:
 
 
 
-```
+
 
 ```plaintext
 Project structure:-
