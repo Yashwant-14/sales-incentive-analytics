@@ -50,8 +50,7 @@ This project demonstrates:
 ## Project Architecture
 ![Pipeline Architecture](docs/Pipeline_Architecture.png)
 
-## Database ER Diagram
-![Database ER Diagram](docs/database_schema.png)
+
 
 
 
