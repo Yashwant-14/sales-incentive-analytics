@@ -1,0 +1,7 @@
+*.log
+*.csv
+*.parquet
+__pycache__/
+.idea/
+*.venv
+resources/dev/config.py
