@@ -48,8 +48,10 @@ This project demonstrates:
 
 
 ## Project Architecture
-![Pipeline Architecture](docs/Pipeline_Architecture.png)
+![Pipeline Architecture](https://github.com/Yashwant-14/sales-incentive-analytics/blob/84e720e421c670d4df0489573f518e93e7be359c/docs/Pipeline_Architecture.png)
 
+## Database ER Diagram
+![Database ER Diagram](https://github.com/Yashwant-14/sales-incentive-analytics/blob/84e720e421c670d4df0489573f518e93e7be359c/docs/database_schema.png)
 
 
 
